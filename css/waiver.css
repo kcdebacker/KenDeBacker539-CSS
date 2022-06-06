@@ -118,6 +118,7 @@ h1{
     figure:nth-child(2n){
         grid-column: 2 / span 2;
         margin-right: 5%;
+        margin-left: 0%;
     }
 }
 
